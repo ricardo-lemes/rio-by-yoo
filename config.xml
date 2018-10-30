@@ -1,11 +1,11 @@
-<?xml version='1.1' encoding='utf-8'?>
-<widget  android-versionCode="1001" id="com.criarenet.rio" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<?xml version='1.2' encoding='utf-8'?>
+<widget  android-versionCode="1002" id="com.criarenet.rio" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Rio</name>
     <description>
         Rio by yoo.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="support@wifimax.com" href="http://www.wifimax.com.br/">
+        Wifimax Team
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
