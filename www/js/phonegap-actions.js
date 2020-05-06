@@ -3,7 +3,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
 function onDeviceReady() {
 
     if (tablet) {
-        setScreenOrientation('landscape')
+        setScreenOrientation('portrait')
     } else {
         setScreenOrientation('portrait')
         StatusBar.hide()
