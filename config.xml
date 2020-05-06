@@ -1,5 +1,5 @@
-<?xml version='1.3' encoding='utf-8'?>
-<widget  android-versionCode="1003" id="com.criarenet.rio" version="1.3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<?xml version='1.4' encoding='utf-8'?>
+<widget  android-versionCode="1004" id="com.criarenet.rio" version="1.3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Rio</name>
     <description>
         Rio by yoo.
